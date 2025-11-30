@@ -1,6 +1,6 @@
 # bun http template
 
-http server with file-based routing. got tired of setting up the same boilerplate so i made this.
+http server with file-based routing.
 
 ## what's included
 
