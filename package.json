@@ -31,7 +31,7 @@
     "typescript",
     "routing"
   ],
-  "author": "Ali (YourPOV)",
+  "author": "Andrew Tandy",
   "license": "MIT",
   "devDependencies": {
     "@types/bun": "latest",
